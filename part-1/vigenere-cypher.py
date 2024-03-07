@@ -1,5 +1,5 @@
 text = 'mrttaqrhknsw ih puggrur'
-custom_key = 'python'
+custom_key = 'happycoding'
 
 # a cypher which changes the encryption offset of a letter based on a key
 def vigenere(message, key, direction=1):
