@@ -1,5 +1,3 @@
-# What are all of the basic data types in Python?
-
 # Numbers:
 
 # Integers (int): Whole numbers, positive or negative, without decimals. Example: 5, -3.
@@ -27,7 +25,7 @@
 
 # Similar to a set but immutable. Once created, it cannot be changed. Example: frozenset([1, 2, 3, 4]).
 
-
+# What are all of the simple datatypes in Python?
 
 # Text Type: str
 # Numeric Types: int, float, complex
@@ -38,11 +36,6 @@
 # Binary Types: bytes, bytearray, memoryview
 # None Type: NoneType
 
-# In Python there is a None object, the JavaScript alternative is null
 
 
-# How do you write code blocks in Python?
-
-# How do you write loops in Pyhon?
-
-
+# in Python there is a None object, the JavaScript alternative is null
